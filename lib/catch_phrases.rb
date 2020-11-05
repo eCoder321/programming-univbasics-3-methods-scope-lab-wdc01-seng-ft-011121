@@ -20,4 +20,6 @@ def all_phrases
   return phrase
 end
 
+all_phrases
+
   
