@@ -9,5 +9,14 @@ def toadstool
 end
 
 def link 
-  It's Dangerous To Go Alone! Take This.
+  catch = "It's Dangerous To Go Alone! Take This."
+  puts catch
+end
+
+def all_phrases
+  mario
+  toadstool
+  link
+end
+
   
